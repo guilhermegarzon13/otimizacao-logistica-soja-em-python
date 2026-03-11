@@ -12,7 +12,7 @@ O desafio logístico foi modelado matematicamente utilizando:
 Todo o desenvolvimento em código, processamento de dados e resolução do modelo de otimização foi feito integralmente em **Python**, estruturado em um Notebook Jupyter. 
 
 Você pode visualizar o código e os resultados diretamente aqui no GitHub clicando no arquivo:
-**[`Simplexo.ipynb`](./Simplexo.ipynb)**
+**[`Simplexo.ipynb`](./Otimização-Github/Simplexo.ipynb)**
 
 ## 📄 Relatório Completo e Fundamentação
 A formulação matemática completa (variáveis de decisão, função objetivo e restrições) e a discussão aprofundada dos resultados obtidos estão detalhadas no **[PDF do Relatório Técnico](./Relatório_Otimização.pdf)** disponível neste repositório.
