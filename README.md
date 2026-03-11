@@ -2,13 +2,13 @@
 
 Este projeto aplica técnicas de **Pesquisa Operacional e Programação Linear** para resolver um problema real de logística agropecuária. O objetivo principal é minimizar os custos de transporte e transbordo na cadeia de suprimentos da soja, definindo as melhores rotas entre pontos de origem, transbordo e destino.
 
-##O Problema e a Modelagem
+## O Problema e a Modelagem
 O desafio logístico foi modelado matematicamente utilizando:
 * **Problema de Transporte/Transbordo:** Modelagem de restrições de oferta, demanda e conservação de fluxo.
 * **Otimização de Custos:** Função objetivo focada na minimização do custo logístico total.
 * **Método Simplex Dual:** Resolução do modelo matemático para encontrar a solução ótima viável.
 
-##Como visualizar as análises
+## Como visualizar as análises
 Todo o desenvolvimento em código, processamento de dados e resolução do modelo de otimização foi feito integralmente em **Python**, estruturado em um Notebook Jupyter. 
 
 Você pode visualizar o código e os resultados diretamente aqui no GitHub clicando no arquivo:
