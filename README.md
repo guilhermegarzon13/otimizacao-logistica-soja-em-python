@@ -15,4 +15,4 @@ Você pode visualizar o código e os resultados diretamente aqui no GitHub clica
 **[`Simplexo.ipynb`](./Otimização-Github/Simplexo.ipynb)**
 
 ## 📄 Relatório Completo e Fundamentação
-A formulação matemática completa (variáveis de decisão, função objetivo e restrições) e a discussão aprofundada dos resultados obtidos estão detalhadas no **[PDF do Relatório Técnico](./Relatório_Otimização.pdf)** disponível neste repositório.
+A formulação matemática completa (variáveis de decisão, função objetivo e restrições) e a discussão aprofundada dos resultados obtidos estão detalhadas no **[PDF do Relatório Técnico](.Otimização-Github/Relatório_Otimização.pdf)** disponível neste repositório.
